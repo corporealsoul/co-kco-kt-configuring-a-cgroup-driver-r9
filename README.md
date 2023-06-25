@@ -1,1 +1,3 @@
-# co-kt-configuring-a-cgroup-driver-r9
+### Configuring a cgroup driver,
+
+**Not required for Docker CRI**
